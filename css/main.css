@@ -1,0 +1,26 @@
+.bg-offwhite{
+    background-color: rgba(246, 240, 237,.8);
+}
+#showbtn{
+    cursor: pointer;
+}
+body{
+    background-color: black;
+}
+.w-10{
+    width: 10%;
+}
+.logo{
+    width: 100px;
+}
+.layer{
+    transform: translateY(-5000px);
+}
+.layer1:hover .layer{
+    transform: translateX(0px);
+    
+}
+li{
+    cursor: pointer;
+    
+}
